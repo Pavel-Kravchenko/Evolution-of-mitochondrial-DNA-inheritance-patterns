@@ -6,7 +6,7 @@ The pipeline provides an analysis of evolutionaly linked sequences.
 
 ## Before you start
 
-<p>The pipeline is avalible only for <i>Linux</i> users </br>
+The pipeline is avalible only for <i>Linux</i> users </br>
 Make sure that you have installed all companents:
 <ul>
 <li>Python 3.6 or upper https://www.python.org/
@@ -15,7 +15,7 @@ Make sure that you have installed all companents:
 <li>Clustalw http://www.clustal.org/clustal2/
 <li>EMBOSS with fdrawtree and fdrawgram http://evolution.genetics.washington.edu/phylip.html
 </ul>
-</p>
+
 
 ## Getting started
 
@@ -45,15 +45,15 @@ Now you are ready to start
 ## There are three ways of how to use it
 
 <ol>
-<li>Use ``bash script1.sh`` for work with unaligned sequences
+<li>Use bash script1.sh for work with unaligned sequences
 
 The pipeline will make an alignment for you then analyze and visualize polymorphisms</br>
 
-<li>Use ``bash script2.sh`` for work with aligned sequences
+<li>Use bash script2.sh for work with aligned sequences
 
 In case of difficult alignment, you may do it once. Then the pipeline will only analyze and visualize polymorphisms (Alignment needed)</br>
 
-<li>Use ``bash script3.sh`` for work with LD and r_2 files
+<li>Use bash script3.sh for work with LD and r_2 files
 
 In is needed, the pipeline will only visualize polymorphisms (Previous steps required)</br>
 </ol>
