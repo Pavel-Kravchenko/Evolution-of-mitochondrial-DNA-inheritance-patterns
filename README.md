@@ -39,9 +39,22 @@ Species_files
 Species_files.tar.gz
 ```
 
-If everything gone well you are ready to start
+If everything gone well copy your ```.fasta``` file in Species_files</br>
+Now you are ready to start
 
 ## There are three ways of how to use it
+
+###Use ```bash script1.sh``` for work with unaligned sequences
+
+The pipeline will make an alignment for you then analyze and visualize polymorphisms</br>
+
+###Use ```bash script2.sh``` for work with aligned sequences
+
+In case of difficult alignment, you may do it once. Then the pipeline will only analyze and visualize polymorphisms (Alignment needed)</br>
+
+###Use ```bash script3.sh``` for work with LD and r_2 files
+
+In is needed, the pipeline will only visualize polymorphisms (Previous steps required)</br>
 
 ## Contact me
 
