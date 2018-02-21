@@ -2,7 +2,7 @@
 
 This pipeline is a part of bioengineering and bioinformatics faculty coursework
 
-The pipeline provides an analysis of evolutionaly linked sequences
+The pipeline provides an analysis of evolutionaly linked sequences.
 
 ## Before you start
 
@@ -38,7 +38,7 @@ script3.sh
 Species_files
 Species_files.tar.gz
 ```
-Now you are ready to start
+Now you are ready to start.
 Command 
 ```bash script1.sh``` and wait when the program have completed
 You are expected to recive such demo results in Species_files:
@@ -72,7 +72,7 @@ In is needed, the pipeline will only visualize polymorphisms (Previous steps req
 ## Bonus
 You may want to check your alignmrnt tree in ```.fdrawtree``` and ```.c.fdrawgram``` files.
 You also might want to calculate Kendall correlation coefficient between Len and LD. 
-You can find results in Kendall_test.txt 
+You can find results in Kendall_test.txt.
 
 ## Contact me
 
