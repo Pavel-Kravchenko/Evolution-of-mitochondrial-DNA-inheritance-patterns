@@ -39,7 +39,12 @@ Species_files
 Species_files.tar.gz
 ```
 Now you are ready to start
-If everything gone well copy your ```.fasta``` file in Species_files</br></br>
+Command 
+```bash script1.sh``` and wait when the program have completed
+You are expected to recive such demo results in Species_files:
+
+
+If everything gone well, clear Species_files and copy your ```.fasta``` file in Species_files</br></br>
 And command</br></br>
 ```bash script1.sh```</br>
 
