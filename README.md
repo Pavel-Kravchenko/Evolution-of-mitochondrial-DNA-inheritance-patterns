@@ -1,6 +1,6 @@
 # Evolution-of-mitochondrial-DNA-inheritance-patterns-pipeline
 
-This pipeline is a part of bioengineering and bioinformatics faculty coursework
+This pipeline is the part of bioengineering and bioinformatics faculty coursework
 
 The pipeline provides an analysis of evolutionaly linked sequences.
 
