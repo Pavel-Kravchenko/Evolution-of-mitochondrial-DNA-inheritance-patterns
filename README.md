@@ -21,9 +21,8 @@ Make sure that you have installed all companents:
 
 ### Installation
 
-First of all you have to clone this directory and unzip it</br></br>
-```git clone https://github.com/Pavel-Kravchenko/Evolution-of-mitochondrial-DNA-inheritance-patterns/```</br>
-```unzip Evolution-of-mitochondrial-DNA-inheritance-patterns-master.zip```</br></br>
+First of all you have to ```clone``` this directoryt</br></br>
+```git clone https://github.com/Pavel-Kravchenko/Evolution-of-mitochondrial-DNA-inheritance-patterns/```</br></br>
 Then ```cd``` in Evolution-of-mitochondrial-DNA-inheritance-patterns-master</br></br>
 ```cd Evolution-of-mitochondrial-DNA-inheritance-patterns-master```</br></br>
 And ```tar``` Species_files.tar.gz</br></br>
