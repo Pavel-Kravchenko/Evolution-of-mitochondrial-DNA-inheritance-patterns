@@ -27,7 +27,7 @@ Then ```cd``` in Evolution-of-mitochondrial-DNA-inheritance-patterns-master</br>
 ```cd Evolution-of-mitochondrial-DNA-inheritance-patterns-master```</br></br>
 And ```tar``` Species_files.tar.gz</br></br>
 ```tar -xvf Species_files.tar.gz```</br></br>
-Comand ```ls -1``` and make sure that you have all files in your directory
+Command ```ls -1``` and make sure that you have all files in your directory
 ```
 alignment_reader.py
 README.md
@@ -40,8 +40,8 @@ Species_files.tar.gz
 ```
 Now you are ready to start.
 Command 
-```bash script1.sh``` and wait when the program have completed
-You are expected to recive such demo results in Species_files:
+```bash script1.sh``` and wait when the program have completed.
+You are expected to receive such demo results in Species_files:
 
 <img alt="LD" src="http://kodomo.fbb.msu.ru/~pavel-kravchenko/GitHub/LD_hist_example_0.25_207.png">
 <img alt="LD" src="http://kodomo.fbb.msu.ru/~pavel-kravchenko/GitHub/LD_plot_example_0.25_207.png">
