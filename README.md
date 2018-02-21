@@ -46,9 +46,8 @@ You are expected to recive such demo results in Species_files:
 <img alt="LD" src="http://kodomo.fbb.msu.ru/~pavel-kravchenko/GitHub/LD_hist_example_0.25_207.png">
 <img alt="LD" src="http://kodomo.fbb.msu.ru/~pavel-kravchenko/GitHub/LD_plot_example_0.25_207.png">
 <img alt="LD" src="http://kodomo.fbb.msu.ru/~pavel-kravchenko/GitHub/Len_hist_example_0.25_207.png">
-<img alt="LD" src="http://kodomo.fbb.msu.ru/~pavel-kravchenko/GitHub/Mix_example_0.25_207.png">
 <img alt="LD" src="http://kodomo.fbb.msu.ru/~pavel-kravchenko/GitHub/r2_plot_example_0.25_207.png">
-<img alt="LD" src="http://kodomo.fbb.msu.ru/~pavel-kravchenko/GitHub/example_0.25_.fdrawtree">
+<img alt="LD" src="http://kodomo.fbb.msu.ru/~pavel-kravchenko/GitHub/Mix_example_0.25_207.png">
 
 If everything gone well, clear Species_files and copy your ```.fasta``` file in Species_files</br></br>
 And command</br></br>
@@ -70,6 +69,10 @@ In case of difficult alignment, you may do it once. Then the pipeline will only 
 In is needed, the pipeline will only visualize polymorphisms (Previous steps required)</br>
 </ol>
   
+## Bonus
+You may want to check your alignmrnt tree in ```.fdrawtree``` and ```.c.fdrawgram``` files.
+You also might want to calculate Kendall corellation coefficient between Len and Ld. You can find results in Kendall_test.txt
+
 ## Contact me
 
 Feel free to contact me for any suggestions or critique.
