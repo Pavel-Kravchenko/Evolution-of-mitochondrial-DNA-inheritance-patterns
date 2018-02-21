@@ -43,6 +43,12 @@ Command
 ```bash script1.sh``` and wait when the program have completed
 You are expected to recive such demo results in Species_files:
 
+<img alt="LD" src="http://kodomo.fbb.msu.ru/~pavel-kravchenko/GitHub/LD_hist_example_0.25_207.png">
+<img alt="LD" src="http://kodomo.fbb.msu.ru/~pavel-kravchenko/GitHub/LD_plot_example_0.25_207.png">
+<img alt="LD" src="http://kodomo.fbb.msu.ru/~pavel-kravchenko/GitHub/Len_hist_example_0.25_207.png">
+<img alt="LD" src="http://kodomo.fbb.msu.ru/~pavel-kravchenko/GitHub/Mix_example_0.25_207.png">
+<img alt="LD" src="http://kodomo.fbb.msu.ru/~pavel-kravchenko/GitHub/r2_plot_example_0.25_207.png">
+<img alt="LD" src="http://kodomo.fbb.msu.ru/~pavel-kravchenko/GitHub/example_0.25_.fdrawtree">
 
 If everything gone well, clear Species_files and copy your ```.fasta``` file in Species_files</br></br>
 And command</br></br>
