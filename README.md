@@ -23,8 +23,8 @@ Make sure that you have installed all components:
 
 First of all you have to ```clone``` this directory</br></br>
 ```git clone https://github.com/Pavel-Kravchenko/Evolution-of-mitochondrial-DNA-inheritance-patterns/```</br></br>
-Then ```cd``` in Evolution-of-mitochondrial-DNA-inheritance-patterns-master</br></br>
-```cd Evolution-of-mitochondrial-DNA-inheritance-patterns-master```</br></br>
+Then ```cd``` in Evolution-of-mitochondrial-DNA-inheritance-patterns</br></br>
+```cd Evolution-of-mitochondrial-DNA-inheritance-patterns```</br></br>
 And ```tar``` Species_files.tar.gz</br></br>
 ```tar -xvf Species_files.tar.gz```</br></br>
 Command ```ls -1``` and make sure that you have all files in your directory
