@@ -6,7 +6,7 @@ The pipeline provides an analysis of evolutionaly linked sequences.
 
 ## Before you start
 
-<p>The pipeline is avalible only for <i>Linux</i> users <br>
+<p>The pipeline is avalible only for <i>Linux</i> users </br>
 Make sure that you have installed all companents:
 <ul>
 <li>Python 3.6 or upper https://www.python.org/
@@ -21,11 +21,27 @@ Make sure that you have installed all companents:
 
 ### Installation
 
-First of all you have to download all files to your directory
+First of all you have to download all files in to your directory </br>
+```unzip Evolution-of-mitochondrial-DNA-inheritance-patterns-master.zip```</br>
+Then</br>
+```cd Evolution-of-mitochondrial-DNA-inheritance-patterns-master```</br>
+And ```tar``` Species_files.tar.gz</br>
+```tar -xvf Species_files.tar.gz```</br></br>
+Comand ```ls -1``` and make sure that you have all files in your directory
+```
+alignment_reader.py
+README.md
+R_plotter.R
+script1.sh
+script2.sh
+script3.sh
+Species_files
+Species_files.tar.gz
+```
+
+If everything gone well you are ready to start
 
 ## There are three ways of how to use it
-
-  tar -xvf archive.tar
 
 ## Contact me
 
