@@ -21,11 +21,11 @@ Make sure that you have installed all companents:
 
 ### Installation
 
-First of all you have to download all files in to your directory </br>
-```unzip Evolution-of-mitochondrial-DNA-inheritance-patterns-master.zip```</br>
-Then</br>
-```cd Evolution-of-mitochondrial-DNA-inheritance-patterns-master```</br>
-And ```tar``` Species_files.tar.gz</br>
+First of all you have to download all files in to your directory </br></br>
+```unzip Evolution-of-mitochondrial-DNA-inheritance-patterns-master.zip```</br></br>
+Then ```cd``` in Evolution-of-mitochondrial-DNA-inheritance-patterns-master</br></br>
+```cd Evolution-of-mitochondrial-DNA-inheritance-patterns-master```</br></br>
+And ```tar``` Species_files.tar.gz</br></br>
 ```tar -xvf Species_files.tar.gz```</br></br>
 Comand ```ls -1``` and make sure that you have all files in your directory
 ```
