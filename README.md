@@ -38,9 +38,10 @@ script3.sh
 Species_files
 Species_files.tar.gz
 ```
-
-If everything gone well copy your ```.fasta``` file in Species_files</br>
 Now you are ready to start
+If everything gone well copy your ```.fasta``` file in Species_files</br></br>
+And command</br></br>
+```bash script1.sh```</br>
 
 ## There are three ways of how to use it
 
