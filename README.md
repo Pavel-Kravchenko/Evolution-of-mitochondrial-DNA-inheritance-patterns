@@ -2,7 +2,7 @@
 
 This pipeline is the part of bioengineering and bioinformatics faculty coursework
 
-The pipeline provides an analysis of evolutionary linked sequences.
+The pipeline provides an analysis of evolutionarily linked sequences.
 
 ## Before you start
 
