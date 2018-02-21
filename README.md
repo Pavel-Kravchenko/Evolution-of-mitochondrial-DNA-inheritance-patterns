@@ -3,7 +3,7 @@ This pipeline is a part of bioengineering and bioinformatics faculty coursework
 
 The pipeline provides an analysis of evolutionaly linked sequences. 
 
-<h2>Before start</h2>
+## Before you start
 <p>The pipeline is avalible only for <i>Linux</i> users <br>
 Make sure that you have installed all companents:
 <ul>
@@ -14,7 +14,15 @@ Make sure that you have installed all companents:
 <li>EMBOSS with fdrawtree and fdrawgram http://evolution.genetics.washington.edu/phylip.html
 </ul>
 </p>
-<h2>There are three ways of how to use it</h2>
+## There are three ways of how to use it
 <p>First of all you have to download all files to your directory
   tar -xvf archive.tar
 </p>
+
+## Contact me
+
+Feel free to contact me for any suggestions or critique.
+
+Email: pavel-kravchenk0@yandex.ru 
+
+Site: http://kodomo.fbb.msu.ru/~pavel-kravchenko/index.html 
