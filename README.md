@@ -58,15 +58,15 @@ And command</br></br>
 <ol>
 <li>Use bash script1.sh for work with unaligned sequences in Species_files with .fasta file extension
 
-The pipeline will make an alignment for you, then analyze and visualize polymorphisms</br>
-
+The pipeline will make an alignment for you, then analyze and visualize polymorphisms. (Changing $mask parameter in script*.sh files you can correct a cut-off for analysis)</br>
+  
 <li>Use bash script2.sh for work with aligned sequences in Species_files with .fasta.aligned.fasta file extension
 
 In case of difficult alignment, you may do it once. Then the pipeline will only analyze and visualize polymorphisms</br>
 
 <li>Use bash script3.sh for work with LD and r_2 files after previous steps
   
-If it is needed, you may wish the pipeline only visualize polymorphisms </br>
+If it is needed, you may wish the pipeline only visualize polymorphisms with different parameters of mask and window</br>
 </ol>
   
 ## Bonus
