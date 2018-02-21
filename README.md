@@ -71,7 +71,8 @@ In is needed, the pipeline will only visualize polymorphisms (Previous steps req
   
 ## Bonus
 You may want to check your alignmrnt tree in ```.fdrawtree``` and ```.c.fdrawgram``` files.
-You also might want to calculate Kendall corellation coefficient between Len and Ld. You can find results in Kendall_test.txt
+You also might want to calculate Kendall correlation coefficient between Len and LD. 
+You can find results in Kendall_test.txt 
 
 ## Contact me
 
