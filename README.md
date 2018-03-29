@@ -6,7 +6,7 @@ The pipeline provides analysis of sequences with common evolutionary history.
 
 ## Before you start
 
-The pipeline is availble only for <i>Linux</i> users </br>
+The pipeline is available only for <i>Linux</i> users </br>
 Make sure that you have installed all components:
 <ul>
 <li>Python 3.6 or upper https://www.python.org/
