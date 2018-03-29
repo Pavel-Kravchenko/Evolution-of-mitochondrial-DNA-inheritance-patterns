@@ -40,7 +40,7 @@ Species_files.tar.gz
 ```
 Now you are ready to start.
 Command 
-```bash script1.sh``` and wait when the program have completed.
+```bash script1.sh``` and wait until the program is completed. 
 You are expected to receive such demo results in Species_files:
 
 <img alt="LD" src="http://kodomo.fbb.msu.ru/~pavel-kravchenko/GitHub/LD_hist_example_0.25_207.png">
