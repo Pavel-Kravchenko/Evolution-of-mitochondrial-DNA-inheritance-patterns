@@ -1,5 +1,5 @@
 echo "/Bash script run successfully/"
-mask=$1
+mask=0.25
 home=`pwd`
 
 cd ./Species_files
