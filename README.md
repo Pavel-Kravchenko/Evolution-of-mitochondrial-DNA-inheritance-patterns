@@ -43,12 +43,12 @@ Command
 ```bash script1.sh``` and wait until the program is completed. 
 You are expected to receive such demo results in Species_files:
 
-<img alt="LD" src="http://kodomo.fbb.msu.ru/~pavel-kravchenko/GitHub//home/pavel/LD_hist_Saccharomyces_COX2_0.25_38.png">
+<img alt="LD" src="http://kodomo.fbb.msu.ru/~pavel-kravchenko/GitHub/pavel/LD_hist_Saccharomyces_COX2_0.25_38.png">
 <img alt="LD" src="http://kodomo.fbb.msu.ru/~pavel-kravchenko/GitHub/LD_plot_Saccharomyces_COX2_0.25_38.png">
 <img alt="LD" src="http://kodomo.fbb.msu.ru/~pavel-kravchenko/GitHub/Len_hist_Saccharomyces_COX2_0.25_38.png">
 <img alt="LD" src="http://kodomo.fbb.msu.ru/~pavel-kravchenko/GitHub/r2_plot_Saccharomyces_COX2_0.25_38.png">
 <img alt="LD" src="http://kodomo.fbb.msu.ru/~pavel-kravchenko/GitHub/Mix_Saccharomyces_COX2_0.25_38.png">
-<img alt="LD" src="http://kodomo.fbb.msu.ru/~pavel-kravchenko/GitHub//home/pavel/Saccharomyces_COX2_0.25_.c.fdrawgram">
+
 If everything gone well, clear Species_files and copy your ```.fasta``` file in Species_files</br></br>
 And command</br></br>
 ```bash script1.sh```</br>
