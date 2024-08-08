@@ -10,3 +10,12 @@
 [submodule "evolution-simulation-pipeline_Ne_and_generations"]
 	path = evolution-simulation-pipeline_Ne_and_generations
 	url = https://github.com/Pavel-Kravchenko/evolution-simulation-pipeline_Ne_and_generations.git
+[submodule "R-script-to-draw-trees"]
+	path = R-script-to-draw-trees
+	url = https://github.com/Pavel-Kravchenko/R-script-to-draw-trees.git
+[submodule "R-script-to-compare-two-LDs"]
+	path = R-script-to-compare-two-LDs
+	url = https://github.com/Pavel-Kravchenko/R-script-to-compare-two-LDs.git
+[submodule "LD-plotter-package"]
+	path = LD-plotter-package
+	url = https://github.com/Pavel-Kravchenko/LD-plotter-package.git
