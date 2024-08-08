@@ -1,0 +1,12 @@
+[submodule "Evolution_simulation_Ne_gen_rec_rate_3.0"]
+	path = Evolution_simulation_Ne_gen_rec_rate_3.0
+	url = https://github.com/Pavel-Kravchenko/Evolution_simulation_Ne_gen_rec_rate_3.0.git
+[submodule "Mitochondrion-inheritance-table"]
+	path = Mitochondrion-inheritance-table
+	url = https://github.com/Pavel-Kravchenko/Mitochondrion-inheritance-table.git
+[submodule "evolution-simulation-pipeline_recombination_and_generations"]
+	path = evolution-simulation-pipeline_recombination_and_generations
+	url = https://github.com/Pavel-Kravchenko/evolution-simulation-pipeline_recombination_and_generations.git
+[submodule "evolution-simulation-pipeline_Ne_and_generations"]
+	path = evolution-simulation-pipeline_Ne_and_generations
+	url = https://github.com/Pavel-Kravchenko/evolution-simulation-pipeline_Ne_and_generations.git
