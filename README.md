@@ -6,14 +6,16 @@ The pipeline provides analysis of sequences with common evolutionary history.
 
 ## Before you start
 
-The pipeline is available only for <i>Linux</i> users </br>
 Make sure that you have installed all components:
 <ul>
 <li>Python 3.6 or upper https://www.python.org/
 <li>Biopython 1.70 or upper http://biopython.org/
 <li>R and R-Studio with basic packages https://www.rstudio.com/
 <li>Clustalw http://www.clustal.org/clustal2/
-<li>EMBOSS with fdrawtree and fdrawgram http://evolution.genetics.washington.edu/phylip.html
+<li>EMBOSS with fdrawtree and fdrawgram http://evolution.genetics.washington.edu/phylip.html</br></br>
+You may also need</br></br>
+<li>snp-sites https://sanger-pathogens.github.io/snp-sites/
+<li>vcftools https://github.com/vcftools/vcftools
 </ul>
 
 
